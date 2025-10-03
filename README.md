@@ -6,4 +6,4 @@ This repository tracks my progress through the '100 Days of Code' Python bootcam
 
 | Day | Project Title       | Concepts Covered                                                    | Link                                                        |
 |-----|---------------------|---------------------------------------------------------------------|-------------------------------------------------------------|
-| 01  | Band Name Generator | Printing, String Manipulation, Variables, Input Function, Debugging | [Link to Code](https://replit.com/@MohammedZubair4/100-Days-of-Python)       |
+| 01  | Band Name Generator | Printing, String Manipulation, Variables, Input Function, Debugging | [Link to Code](https://colab.research.google.com/drive/1bTG5B7Ctskpl-6qlu4LFFNq-JrQwkShO?usp=sharing)       |

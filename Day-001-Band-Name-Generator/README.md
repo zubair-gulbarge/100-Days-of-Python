@@ -12,4 +12,4 @@ This program generates a band name suggestion by combining the city the user gre
 
 ## 🚀 View the Code
 
-You can view the Python code for this project here: [main.py](./main.py)
+You can view the Python code for this project here: [main.py](https://colab.research.google.com/drive/1bTG5B7Ctskpl-6qlu4LFFNq-JrQwkShO?usp=sharing)
