@@ -1,11 +1,11 @@
-# Day 2: Mad Libs Story Generator
+# Mad Libs Story Generator
 
 This program generates a fun, interactive story by asking the user for different types of words (nouns, verbs, adjectives) and then placing them into a pre-written narrative.
 
 ## 🚀 How to Run
 
 You can run this project interactively in your browser using this Replit link:
-[Run Project on Replit](YOUR_REPLIT_LINK_HERE)
+[Run Project on Replit](https://replit.com/@MohammedZubair4/100-Days-of-Python)
 
 ## 📜 Concepts Practiced
 
